@@ -1,0 +1,12 @@
+a1@b.com,0
+a2@b.com,0
+a3@b.com,0
+a4@b.com,0
+a5@b.com,0
+a6@b.com,0
+b1@b.com,1
+b2@b.com,1
+b3@b.com,1
+c1@b.com,2
+c2@b.com,2
+c3@b.com,2
